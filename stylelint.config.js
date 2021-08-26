@@ -15,7 +15,7 @@ module.exports = {
     'selector-pseudo-element-no-unknown': true,
     'selector-type-no-unknown': true,
     'scss/at-rule-no-unknown': [true, {
-      ignoreAtRules: ['tailwind', 'apply', 'variants', 'responsive', 'screen']
+      ignoreAtRules: ['tailwind', 'apply', 'variants', 'responsive', 'screen', 'layer']
     }],
     'no-descending-specificity': null,
     'no-duplicate-at-import-rules': true,
