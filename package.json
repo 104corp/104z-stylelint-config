@@ -1,6 +1,6 @@
 {
   "name": "@104corp/104z-stylelint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A shareable stylelint config for 104z",
   "main": "index.js",
   "scripts": {
