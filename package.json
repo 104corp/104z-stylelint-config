@@ -1,5 +1,5 @@
 {
-  "name": "@104corp/104z-stylelint-config",
+  "name": "@104corp/stylelint-config",
   "version": "1.0.0",
   "description": "A shareable stylelint config for 104z",
   "main": "index.js",
