@@ -1,6 +1,6 @@
 // Property Order Rules Arranged from stylelint-config-recess-order
 // GitHub: https://github.com/stormwarning/stylelint-config-recess-order
-module.exports = {
+export default {
   extends: [
     'stylelint-config-recommended-scss',
     'stylelint-config-recommended-vue'
