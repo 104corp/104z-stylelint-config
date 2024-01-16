@@ -2,6 +2,7 @@
 // GitHub: https://github.com/stormwarning/stylelint-config-recess-order
 export default {
   extends: [
+    'stylelint-config-standard',
     'stylelint-config-recommended-scss',
     'stylelint-config-recommended-vue'
   ],
