@@ -1,3 +1,2 @@
-const stylelint = require('./stylelint.config.js')
-
-module.exports = stylelint
+import stylelint from './stylelint.config.js'
+export default stylelint
